@@ -26,7 +26,16 @@ The dashboard provides insights into:
 
 # Dashboard Preview
 
-![Sales Performance Dashboard](ss/dashboard.png)
+![Sales Performance Dashboard](screenshots/Sales%20Dashboard.png)
+
+
+
+## 🌐 Live Dashboard
+
+[View Live Power BI Dashboard](https://app.fabric.microsoft.com/view?r=eyJrIjoiZmVhZTg5NjgtYzYzOS00NzM1LTlmNjMtNzczODcyNmYyYWEzIiwidCI6ImU4ZGQ5NDMxLTQ1OGYtNDRiOS05ZTA0LTU4YmQyYWU4OWI3MSJ9)
+
+
+
 
 # 🛠️ Technologies Used
 
