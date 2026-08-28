@@ -32,7 +32,7 @@ The dashboard provides insights into:
 
 ## 🌐 Live Dashboard
 
-[View Live Power BI Dashboard]https://app.powerbi.com/view?r=eyJrIjoiZmVhZTg5NjgtYzYzOS00NzM1LTlmNjMtNzczODcyNmYyYWEzIiwidCI6ImU4ZGQ5NDMxLTQ1OGYtNDRiOS05ZTA0LTU4YmQyYWU4OWI3MSJ9
+[View Live Power BI Dashboard]https://app.powerbi.com/view?r=eyJrIjoiZjE3ZDI1M2EtZjNmNi00MWI2LThiNWEtNmRiMjM0YTE5NGQxIiwidCI6ImU4ZGQ5NDMxLTQ1OGYtNDRiOS05ZTA0LTU4YmQyYWU4OWI3MSJ9
 
 
 
